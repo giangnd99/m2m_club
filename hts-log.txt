@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 03 Sep 2024 15:56:35 at https://wpkixx.com/html/socimo/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpkixx.com/html/socimo/ -O1 "D:\m2m\m2m_social" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/time-line.html (from https://wpkixx.com/html/socimo/)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/group-feed.html (from https://wpkixx.com/html/socimo/)
+16:01:49	Warning: 	Retry after error -4 (Connect Error) at link https://wpkixx.com/html/socimo/images/resources/userlist-1.jpg (from https://wpkixx.com/html/socimo/)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/css/owl.video.play.png (from https://wpkixx.com/html/socimo/css/main.min.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/fonts/CircularStd-Book.otf (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/fonts/CircularStd-Black.otf (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/fonts/CircularStd-Bold.otf (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/fonts/CircularStd-Medium.otf (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/images/dot-pattern.png (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/images/loader.gif (from https://wpkixx.com/html/socimo/css/style.css)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/css/lightbox.css (from https://wpkixx.com/html/socimo/profile.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/images/logo2.png (from https://wpkixx.com/html/socimo/invoice.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/inbox.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/page.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/friends-list.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/images.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/location.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/login.html (from https://wpkixx.com/html/socimo/widgets.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/analytics.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/reviews.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:49	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/events.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/messages-inbox.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/team.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/login-register.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/loaders.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/invoice-edit.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/maps.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/colors.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/elements-grid.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/tabs.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/grid.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Warning: 	Retry after error -4 (Connect Error) at link https://wpkixx.com/html/socimo/images/elements/slider3.jpg (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Warning: 	Retry after error -4 (Connect Error) at link https://wpkixx.com/html/socimo/images/elements/slider1.jpg (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/transition.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/cover.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/inverse.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/utility.html (from https://wpkixx.com/html/socimo/development-component.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/flex.html (from https://wpkixx.com/html/socimo/development-elements.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/slideshow.html (from https://wpkixx.com/html/socimo/development-elements.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/slider.html (from https://wpkixx.com/html/socimo/development-elements.html)
+16:01:55	Error: 	"Not Found" (404) at link https://wpkixx.com/html/socimo/dropdown.html (from https://wpkixx.com/html/socimo/development-elements.html)
+16:02:17	Warning: 	Retry after error -4 (Connect Error) at link https://wpkixx.com/html/socimo/images/elements/slider1.jpg (from https://wpkixx.com/html/socimo/development-component.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 43 seconds : 447 links scanned, 404 files written (17549689 bytes overall) [13313159 bytes received at 38813 bytes/sec], 9788226 bytes transferred using HTTP compression in 111 files, ratio 16%, 27.7 requests per connection
+(38 errors, 4 warnings, 0 messages)
